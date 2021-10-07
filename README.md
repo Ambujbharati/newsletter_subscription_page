@@ -1,6 +1,7 @@
 # newsletter_subscription_page
 
 ## technology stack used : node.js, express.js, api, html, css
+### first install node and express.js modeule
 
 ## https://agile-hamlet-45051.herokuapp.com/
 
